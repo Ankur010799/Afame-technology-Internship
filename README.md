@@ -1,0 +1,6 @@
+The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The Use of multiple Measurements in Taxonomic Problems. It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species. The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+This dataset became a typical test case for many machine-learning statistical classification techniques.
+
+This notebook explores different techniques in Machine learning such as K-Neighbors Classifier (KNC), Linear Discriminant Analysis (LDA), Logistic Regression (LR), Support Vector Machine (SVM), and Linear Support Vector Classifier (LSVC) to classify iris species. The given model are used first on raw iris dataset and then on standardized the iris dataset.
+
+Accuracy for raw and standardised data classification is tabularized in the observation section of the notebook with a brief explanation of how the models perform on the dataset.
